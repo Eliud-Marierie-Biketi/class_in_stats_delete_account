@@ -1,0 +1,2 @@
+# class_in_stats_delete_account
+class_in_stats_delete_account
